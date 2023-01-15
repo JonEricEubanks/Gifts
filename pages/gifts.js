@@ -40,7 +40,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h3>Christmas gift generator 🎁 💡</h3>
+        <h3>Gift generator 🎁 💡</h3>
         <form onSubmit={onSubmit}>
           <label>For who is the gift?</label>
           <select
